@@ -1,0 +1,25 @@
+*
+{
+    Background:linear-gradient(to right,#fcb1f2,#038eff,#7adac4);
+}
+.img1
+{
+    display: flex;
+    justify-content:center;
+    margin-top:40px;
+    margin-left: 140px;
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+.img2
+{
+    display: flex;
+    justify-content:center;
+    margin-top:40px;
+    /* margin-left: 100px; */
+    margin-right: 180px;
+    width: 400px;
+    height: 200px;
+    float: right;
+}
